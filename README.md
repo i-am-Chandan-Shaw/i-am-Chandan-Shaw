@@ -30,20 +30,7 @@ I <b>specialize in Angular, AngularJS, and React</b>, and I’m comfortable inte
 > 🎯 Channel: https://www.youtube.com/@wokecoder  
 (Automatically updates using GitHub Actions — not decorative, actually useful.)
 
----
 
-## 📊 GitHub Stats
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=i-am-Chandan-Shaw&show_icons=true&theme=github_dark&hide_border=true" />
-
-</p>
-
-<p align="left">
-<img src="https://streak-stats.demolab.com?user=i-am-Chandan-Shaw&theme=github-dark&hide_border=true" />
-
-</p>
-
----
 
 ## 🧩 Featured Projects
 
@@ -57,6 +44,21 @@ Focused on automation, client tracking, and operational clarity.
 
 ---
 ## 🌍 Connect With Me <p align="left"> <a href="https://t.me/wokecoder" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /> </a> <a href="https://linkedin.com/in/chandan-shaw-5910491a2" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/wokecoder" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /> </a> <a href="https://www.youtube.com/@wokecoder" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /> </a> </p>
+
+---
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=i-am-Chandan-Shaw&show_icons=true&theme=github_dark&hide_border=true" />
+
+</p>
+
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=i-am-Chandan-Shaw&theme=github-dark&hide_border=true" />
+
+</p>
 
 ---
 
