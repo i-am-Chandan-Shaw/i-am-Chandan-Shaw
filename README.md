@@ -2,7 +2,7 @@
 
 **Software Engineer (Developer/Creator/Solopreneur)**
 
-I have <b>6+ years</b> of experience building pixel-perfect, responsive, and user-focused web applications. I’ve led frontend development from idea to production, working closely with designers, backend engineers, and stakeholders to <b>ship high-quality products</b>.
+I have <b>7+ years</b> of experience building pixel-perfect, responsive, and user-focused web applications. I’ve led frontend development from idea to production, working closely with designers, backend engineers, and stakeholders to <b>ship high-quality products</b>.
 
 I <b>specialize in Angular, AngularJS, and React</b>, and I’m comfortable integrating complex frontend systems with backend services and third-party APIs. I care about clean <b>architecture, performance</b>, and building interfaces that actually feel good to use.
 
